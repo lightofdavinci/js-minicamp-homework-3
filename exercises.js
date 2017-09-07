@@ -17,9 +17,9 @@
   objectName["propertyName"] // bracket notation
   most of the time we should use dot notation but there are cases where it's necessary to use bracket notation e.g.
   objectName[12 - 3] // numbers as keys (property names)
-  when you need to assign variable value as a property name: var foo = "name";
+  when you need to assign a variable value as a property name: var foo = "name";
   obj[foo] = "James" => { name: "James" } instead of obj.foo = "James"; => { foo: "James"}
-  and inside of for in loops if you need to iterate over different properties.
+  and inside of for-in loops if you need to iterate over different properties.
 */
 // Do not change any of the function names
 
