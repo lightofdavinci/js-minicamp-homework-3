@@ -1,7 +1,7 @@
 /*
   JavaScript objects are containers for named values.
   It's a collection of related data and/or functionality.
-  Object like a list that contains items, and each item in the list is stored by a name-value pair.
+  Objects are like a list that contain items, and each item in the list is stored by a name-value pair.
   Each item in the list is called a property.
   Methods are actions that can be performed on objects.
   Methods are stored in properties as function definitions.
